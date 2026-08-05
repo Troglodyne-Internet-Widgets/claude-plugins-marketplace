@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "perl-sloppin",
+      "name": "perl-slop",
       "source": {
         "source": "url",
         "url": "https://github.com/Troglodyne-Internet-Widgets/perl-slop-plugin.git"
