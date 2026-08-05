@@ -1,0 +1,22 @@
+{
+  "name": "troglodyne-marketplace",
+  "owner": {
+    "name": "George S. Baugh",
+    "url": "https://troglodyne.net"
+  },
+  "metadata": {
+    "description": "clod code LART necronomicon",
+    "version": "0.0.1"
+  },
+  "plugins": [
+    {
+      "name": "perl-sloppin",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Troglodyne-Internet-Widgets/perl-slop-plugin.git"
+      },
+      "description": "LARTs clod into making less cracked edits to perl code",
+      "version": "0.0.1"
+    }
+  ]
+}
